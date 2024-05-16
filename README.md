@@ -49,7 +49,7 @@
 </head>
 <body>
     <div class="logo">
-        <img src="305882583_548221643771156_742996996962679323_n.jpg" alt="Logo">
+        <img src="edabe8cfd61ea13e24f53898480d583b000065.png" alt="Logo">
     </div>
     <h1>Calculadora de Días de Vacaciones y Asuntos Propios</h1>
     <form id="calculatorForm">
