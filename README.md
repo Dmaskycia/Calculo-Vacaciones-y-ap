@@ -132,7 +132,7 @@
             const ownAffairsDays = (workedDays / 365) * ownAffairsDaysPerYear;
 
             const resultDiv = document.getElementById('result');
-            resultDiv.innerHTML = `Basado en ${workedDays.toFixed(0)} días trabajados y ${yearsOfService} años de servicio, te corresponden ${vacationDays.toFixed(2)} días hábiles de vacaciones y ${ownAffairsDays.toFixed(2)} días hábiles de asuntos propios 2024.`;
+            resultDiv.innerHTML = `Basado en ${workedDays.toFixed(0)} días trabajados y ${yearsOfService} años de servicio, te corresponden ${vacationDays.toFixed(2)} días hábiles de vacaciones y ${ownAffairsDays.toFixed(2)} días hábiles de asuntos propios 2025.`;
         }
     </script>
 </body>
